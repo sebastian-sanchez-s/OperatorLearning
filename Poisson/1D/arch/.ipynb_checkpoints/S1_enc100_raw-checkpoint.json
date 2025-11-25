@@ -1,0 +1,13 @@
+{
+	"name": "S1_enc100_lat8",
+	"ds": "ds20k",
+	"quad-name": "trapezoidal",
+	"quad-size": 100,
+	"layers-apprx": [100, 8],
+	"layers-trunk": [1, 100, 100, 8],
+	"apprx-finish_with_activation": false,
+	"trunk-finish_with_activation": false,
+	"trunk-optimizer-scheduler": false,
+	"rf": 10,
+	"bf": 100
+}

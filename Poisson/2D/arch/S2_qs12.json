@@ -1,0 +1,12 @@
+{
+	"name": "S2_qs12",
+	"ds": "ds20k",
+	"rf": 10,
+	"bf": 50,
+	"encoder": "pointwise",
+	"quad-name": "trapezoidal",
+	"quad-size": 12,
+	"layers": [4, 100, 100, 100, 1],
+	"finish_with_activation": false,
+	"optimizer-scheduler": false
+}

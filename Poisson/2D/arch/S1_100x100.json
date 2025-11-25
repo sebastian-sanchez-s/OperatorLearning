@@ -1,0 +1,14 @@
+{
+	"name": "S1_100x100",
+	"ds": "ds20k",
+	"rf": 10,
+	"bf": 50,
+	"encoder": "pointwise",
+	"quad-name": "trapezoidal",
+	"quad-size": 12,
+	"layers-apprx": [10000, 8],
+	"layers-trunk": [2, 100, 100, 100, 8],
+	"apprx-finish_with_activation": false,
+	"trunk-finish_with_activation": false,
+	"trunk-optimizer-scheduler": false
+}

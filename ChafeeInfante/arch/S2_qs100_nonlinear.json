@@ -1,0 +1,14 @@
+{
+	"name": "S2_qs100_nonlinear",
+	"quad-name": "trapezoidal",
+	"quad-size": 100,
+	"layers": [2, 100, 100, 1],
+	"finish_with_activation": false,
+	"optimizer-scheduler": false,
+	"Psi": true,
+	"Psi-layers": [1, 10, 10, 1],
+	"Psi-finish_with_activation": false,
+	"ds": "ds10k",
+	"rf": 10,
+	"bf": 50
+}

@@ -1,0 +1,13 @@
+{
+	"name": "basis_enc200_raw",
+	"quad_name": "trapezoidal",
+	"quad_size": 200,
+	"layers-apprx": [200, 8],
+	"layers-trunk": [1, 100, 100, 8],
+	"apprx-finish_with_activation": false,
+	"trunk-finish_with_activation": false,
+	"trunk-optimizer-scheduler": false,
+	"ds": "ds10k",
+	"rf": 10,
+	"bf": 100
+}

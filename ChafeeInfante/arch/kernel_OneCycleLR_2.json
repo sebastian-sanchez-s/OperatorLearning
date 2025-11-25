@@ -1,0 +1,11 @@
+{
+	"name": "kernel_OneCycleLR_2",
+	"quad_name": "trapezoidal",
+	"quad_size": 200,
+	"layers": [2, 100, 100, 1],
+	"finish_with_activation": true,
+	"optimizer-scheduler": "OneCycleLR",
+	"ds": "ds10k",
+	"rf": 10,
+	"bf": 100
+}

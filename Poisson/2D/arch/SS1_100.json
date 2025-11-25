@@ -1,0 +1,15 @@
+{
+	"name": "SS1_100",
+	"ds": "ds20k",
+	"rf": 10,
+	"bf": 50,
+	"encoder": "fourier_coeff",
+	"latdim": [10, 10],
+	"quad-name": "trapezoidal",
+	"quad-size": 12,
+	"layers-apprx": [100, 8],
+	"layers-trunk": [2, 100, 100, 100, 8],
+	"apprx-finish_with_activation": false,
+	"trunk-finish_with_activation": false,
+	"trunk-optimizer-scheduler": false
+}

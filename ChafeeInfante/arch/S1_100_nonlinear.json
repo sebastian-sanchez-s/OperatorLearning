@@ -1,0 +1,13 @@
+{
+	"name": "S1_100_nonlinear",
+	"quad_name": "trapezoidal",
+	"quad_size": 100,
+	"layers-apprx": [100, 8, 8],
+	"layers-trunk": [1, 100, 100, 8],
+	"apprx-finish_with_activation": false,
+	"trunk-finish_with_activation": false,
+	"trunk-optimizer-scheduler": false,
+	"ds": "ds10k",
+	"rf": 10,
+	"bf": 100
+}
